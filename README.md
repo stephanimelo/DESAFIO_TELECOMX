@@ -14,7 +14,7 @@ O objetivo do desafio é simular um fluxo de dados real, aplicando boas prática
 ---
 
 📁 Dataset
-Fonte: [TelecomX_Data.json](https://raw.githubusercontent.com/stphanimelo/challenge2-data-science/refs/heads/main/TelecomX_Data.json) - Formato: JSON
+Fonte: [TelecomX_Data.json](https://raw.githubusercontent.com/stephanimelo/challenge2-data-science/refs/heads/main/TelecomX_Data.json) - Formato: JSON
 
 ---
 
