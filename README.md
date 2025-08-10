@@ -13,11 +13,16 @@ O objetivo do desafio é simular um fluxo de dados real, aplicando boas prática
 
 ---
 
-## 📂 Estrutura do Repositório
+📁 Dataset
+Fonte: [TelecomX_Data.json](https://raw.githubusercontent.com/stphanimelo/challenge2-data-science/refs/heads/main/TelecomX_Data.json) - Formato: JSON
+
+---
+
+## 📂 Estrutura
 
 ```bash
 📦 desafio-etl
- ┣ 📁 data              # Dados brutos e processados
+ ┣ 📁 JSON              # Dados brutos e processados
  ┣ 📁 notebooks         # Notebooks Jupyter usados no desenvolvimento
  ┣ 📁 scripts           # Scripts Python para o pipeline ETL
  ┣ 📄 requirements.txt  # Dependências do projeto
@@ -28,12 +33,11 @@ O objetivo do desafio é simular um fluxo de dados real, aplicando boas prática
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Python** 🐍
-* **Pandas** – Manipulação de dados
-* **Jupyter Notebook** – Desenvolvimento e testes
-* **SQL / SQLite** – Armazenamento e consultas
-* **Bibliotecas auxiliares**: NumPy, requests, etc.
-
+* ** Python com as bibliotecas:** 🐍
+* **Pandas**
+* **numpy** 
+* **matplotlib**
+* **seaborn**
 ---
 
 ## 📈 Fluxo ETL
@@ -44,6 +48,15 @@ O objetivo do desafio é simular um fluxo de dados real, aplicando boas prática
 
 ---
 
-## 📜 Licença
+## 🧠 Conclusão
+* **A análise permite identificar perfis de clientes com maior propensão ao churn e fornece informações estratégicas para:**
 
-Este projeto é de uso educacional e foi desenvolvido para fins de estudo durante o desafio da Alura.
+* **Criar campanhas de retenção mais eficazes**
+* **Oferecer planos personalizados**
+* **Otimizar a jornada do cliente com base em dados**
+
+---
+
+## 📌 Autor
+**Stephani dos Santos Melo**
+* **[LinkedIn](https://www.linkedin.com/in/stephani-melo)**
