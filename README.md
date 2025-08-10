@@ -24,8 +24,7 @@ Fonte: [TelecomX_Data.json](https://raw.githubusercontent.com/stphanimelo/challe
 📦 desafio-etl
  ┣ 📁 JSON              # Dados brutos e processados
  ┣ 📁 notebooks         # Notebooks Jupyter usados no desenvolvimento
- ┣ 📁 scripts           # Scripts Python para o pipeline ETL
- ┣ 📄 requirements.txt  # Dependências do projeto
+ ┣ 📄 arquivo           # Dependências do projeto
  ┗ 📄 README.md         # Documentação do projeto
 ```
 
